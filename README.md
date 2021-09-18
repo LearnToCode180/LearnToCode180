@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello everybody 👋
 
+I'm Anas, a Master's Degree Student of Information Systems and Intelligent Systems, and I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing.
 <!--
 **LearnToCode180/LearnToCode180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
