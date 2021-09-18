@@ -6,6 +6,8 @@ I'm Anas, a Master's Degree Student 👨‍🎓 of Information Systems and Intel
 - ⚡ Fun fact: I'm a beatboxer, I love reading everything about science
 - 
 
+---
+
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/anas-azdad-245b48208/">
@@ -17,6 +19,8 @@ I'm Anas, a Master's Degree Student 👨‍🎓 of Information Systems and Intel
 </a>
 <br/>
 
+---
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -24,6 +28,8 @@ I'm Anas, a Master's Degree Student 👨‍🎓 of Information Systems and Intel
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <br>
+
+---
 
 ### 📺 Latest YouTube Videos
 
