@@ -48,11 +48,11 @@ I'm Anas, a Master's Degree Student 👨‍🎓 of Information Systems and Intel
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Laravel 8 Course #18 Delete Function Without Javascript - الدارجة المغربية](https://www.youtube.com/watch?v=zoCeNJffpz8)
 - [Laravel 8 Course #5 Auth Setup & Bootstrap Installation - الدارجة المغربية](https://www.youtube.com/watch?v=4CsHvU5dyMo)
 - [Laravel 8 Course #26 How To Prevent Browser Back Button After User Logout - الدارجة المغربية](https://www.youtube.com/watch?v=nWV-x2E8QOk)
 - [Laravel 8 Course #25 Password Reset Using Gmail - الدارجة المغربية](https://www.youtube.com/watch?v=ZXqIXkruLzc)
 - [Laravel 8 Course #24 Generate Pdf File Using DomPDF - الدارجة المغربية](https://www.youtube.com/watch?v=NGGJSllODj8)
-- [Laravel 8 Course #23 Image Upload Tutorial: Validation, Store In Database & Show - الدارجة المغربية](https://www.youtube.com/watch?v=iSZNITMXkGM)
 <!-- YOUTUBE:END -->
 
 <!--
