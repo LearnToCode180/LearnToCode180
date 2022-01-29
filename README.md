@@ -27,18 +27,24 @@ I'm Anas, a Master's Degree Student 👨‍🎓 of Information Systems and Intel
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/65866281/133908171-0fcf9c54-2e65-479d-bee6-fa1b24a7feb8.png" />
-<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/65866281/133908721-1d5c6ec7-6412-4460-8df1-9ed825b4e91b.png" />
-<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/65866281/133908339-62fe16db-0cd9-4541-be11-fe14ffe8e7e9.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="PHP" width="26px" src="https://user-images.githubusercontent.com/65866281/133908481-0ddfebb4-70fa-4aba-ba5c-152fa015ea2a.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Docker" width="26px" src="https://user-images.githubusercontent.com/65866281/133908392-fe8514a9-6d50-4019-8af4-a7a2107e6847.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Python" width="35px" src="https://user-images.githubusercontent.com/65866281/133908171-0fcf9c54-2e65-479d-bee6-fa1b24a7feb8.png" />
+<img align="left" alt="Jupyter-notebook" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
+<img align="left" alt="Tensorflow" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+<img align="left" alt="ScikitLearn" width="35px" src="https://img2.freepng.fr/20180805/kff/kisspng-scikit-learn-python-computer-icons-scikit-image-ma-data-science-ermlab-software-5b67c768dfc2b8.4692877115335279129165.jpg" />
+<img align="left" alt="Java" width="35px" src="https://user-images.githubusercontent.com/65866281/133908721-1d5c6ec7-6412-4460-8df1-9ed825b4e91b.png" />
+<img align="left" alt="C++" width="35px" src="https://user-images.githubusercontent.com/65866281/133908339-62fe16db-0cd9-4541-be11-fe14ffe8e7e9.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="PHP" width="35px" src="https://user-images.githubusercontent.com/65866281/133908481-0ddfebb4-70fa-4aba-ba5c-152fa015ea2a.png" />
+<img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Docker" width="35px" src="https://user-images.githubusercontent.com/65866281/133908392-fe8514a9-6d50-4019-8af4-a7a2107e6847.png" />
+<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Android-Studio" width="35px" src="https://raw.githubusercontent.com/github/explore/44926f43f6a0d183b5965bebd1e77069ab00c26a/topics/android-studio/android-studio.png" />
+
+<img align="left" alt="springboot" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
 
 
 <br>
