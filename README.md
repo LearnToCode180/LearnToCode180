@@ -2,7 +2,6 @@
 
 I'm Anas, a Master's Degree Student 👨‍🎓 of Information Systems and Intelligent Systems, and I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing.
 
-- 🔭 I’m currently working on a Deep Learning project of classifications of dogs 🐶 and cats 😺 with Keras and Tensorflow.
 - ⚡ Fun fact: I'm a beatboxer, I love sport and reading everything about science.
 
 ---
