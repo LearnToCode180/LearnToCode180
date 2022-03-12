@@ -53,11 +53,11 @@ I'm Anas, a Master's Degree Student 👨‍🎓 of Information Systems and Intel
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Pdf2image Convert From: Is Poppler Installed And In Path - Error Fixed](https://www.youtube.com/watch?v=IDu46GjahDs)
 - [Markdown Complete Tutorial - الدارجة المغربية](https://www.youtube.com/watch?v=GPYnGQqhqGg)
 - [Cours de C++ : Les Exceptions - الدارجة المغربية](https://www.youtube.com/watch?v=wAMROMCmDNk)
 - [How To Fix GitHub Push Rejected Errors + Explanation](https://www.youtube.com/watch?v=SjKuYllK1J4)
 - [Laravel 8 Course #18 Delete Function Without Javascript - الدارجة المغربية](https://www.youtube.com/watch?v=zoCeNJffpz8)
-- [Laravel 8 Course #5 Auth Setup &amp; Bootstrap Installation - الدارجة المغربية](https://www.youtube.com/watch?v=4CsHvU5dyMo)
 <!-- YOUTUBE:END -->
 
 <!--
