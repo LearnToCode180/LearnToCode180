@@ -53,11 +53,11 @@ I'm Anas, a Master's Degree Student 👨‍🎓 of Information Systems and Intel
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Python Course #1 Introduction - الدارجة المغربية](https://www.youtube.com/watch?v=87TjC7SHP2g)
 - [Add Emmet To Markdown Language In Vs Code - Tutorial](https://www.youtube.com/watch?v=NLAmasU25LU)
 - [Image To String: Tesseract.exe Is Not Installed Or It&#39;s Not In Your Path - Error Fixed](https://www.youtube.com/watch?v=W0N0ktUMB_8)
 - [Pdf2image Convert From: Is Poppler Installed And In Path - Error Fixed](https://www.youtube.com/watch?v=IDu46GjahDs)
 - [Markdown Complete Tutorial - الدارجة المغربية](https://www.youtube.com/watch?v=GPYnGQqhqGg)
-- [Cours de C++ : Les Exceptions - الدارجة المغربية](https://www.youtube.com/watch?v=wAMROMCmDNk)
 <!-- YOUTUBE:END -->
 
 <!--
