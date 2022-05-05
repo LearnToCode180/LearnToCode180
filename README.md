@@ -54,11 +54,11 @@ I'm Anas, a 2nd Year Master's Degree Student 👨‍🎓 of Information and Inte
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Python Course #5 For and While Loops - الدارجة المغربية](https://www.youtube.com/watch?v=jYA5tnX7EyA)
 - [Python Course #4 Operators and Conditions - الدارجة المغربية](https://www.youtube.com/watch?v=m1ylRoC9pT8)
 - [Python Course #3 Variables Declaration and Manipulation and Print Function - الدارجة المغربية](https://www.youtube.com/watch?v=RQhv0-vokvw)
 - [Python Course #2 Anaconda and Jupyter Notebook In VS Code Installation - الدارجة المغربية](https://www.youtube.com/watch?v=3OQ2C9YYl-k)
 - [Python Course #1 Introduction - الدارجة المغربية](https://www.youtube.com/watch?v=87TjC7SHP2g)
-- [Add Emmet To Markdown Language In Vs Code - Tutorial](https://www.youtube.com/watch?v=NLAmasU25LU)
 <!-- YOUTUBE:END -->
 
 <!--
