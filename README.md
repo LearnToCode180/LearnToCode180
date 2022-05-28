@@ -54,11 +54,11 @@ I'm Anas, a 2nd Year Master's Degree Student 👨‍🎓 of Information and Inte
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Python Course #9 All About Strings - الدارجة المغربية](https://www.youtube.com/watch?v=ksf6vCJI4jk)
 - [Python Course #8 Zip and Enumerate - الدارجة المغربية](https://www.youtube.com/watch?v=qG0s0rr_32U)
 - [Python Course #7 Indexing and Slicing for Lists and other Sequential Types - الدارجة المغربية](https://www.youtube.com/watch?v=1-1NWkGXIM4)
 - [Python Course #6 All About Lists - الدارجة المغربية](https://www.youtube.com/watch?v=C5yaUs9uVew)
 - [Python Course #5 For and While Loops - الدارجة المغربية](https://www.youtube.com/watch?v=jYA5tnX7EyA)
-- [Python Course #4 Operators and Conditions - الدارجة المغربية](https://www.youtube.com/watch?v=m1ylRoC9pT8)
 <!-- YOUTUBE:END -->
 
 <!--
