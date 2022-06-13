@@ -2,7 +2,7 @@
 
 I'm Anas, a 2nd Year Master's Degree Student 👨‍🎓 of Information and Intelligent Systems, and I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Natural Language Processing, knowledge engineering and Computer Vision.
 
-- 👨🏽‍💻 I’m currently working on an NLP project based on the extraction of information from the recommandations of the High Authority of Health (HAS) on a case of low back pain application to build knowledge graphs to facilitate the management of diseases and the detection of the various factors related to chronicity.
+- 👨🏽‍💻 I’m currently working on an NLP project based on the extraction of information from the recommandations of the High Authority of Health (HAS) on a case of low back pain to build knowledge graphs to facilitate the management of diseases and the detection of the various factors related to chronicity.
 - ⚡ Fun fact: I'm a beatboxer, I love sport and reading everything about science.
 
 ---
