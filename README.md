@@ -54,11 +54,11 @@ I'm Anas, a 2nd Year Master's Degree Student 👨‍🎓 of Information and Inte
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Python Course #12 Mutable And Immutable Objects - الدارجة المغربية](https://www.youtube.com/watch?v=8xw6oHnYcU0)
 - [Python Course #11 All About Dictionaries and Sets - الدارجة المغربية](https://www.youtube.com/watch?v=CPqBf88fCn4)
 - [Python Course #10 All About Tuples - الدارجة المغربية](https://www.youtube.com/watch?v=XAo3Sx8W_pg)
 - [Python Course #9 All About Strings - الدارجة المغربية](https://www.youtube.com/watch?v=ksf6vCJI4jk)
 - [Python Course #8 Zip and Enumerate - الدارجة المغربية](https://www.youtube.com/watch?v=qG0s0rr_32U)
-- [Python Course #7 Indexing and Slicing for Lists and other Sequential Types - الدارجة المغربية](https://www.youtube.com/watch?v=1-1NWkGXIM4)
 <!-- YOUTUBE:END -->
 
 <!--
