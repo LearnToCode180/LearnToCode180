@@ -54,11 +54,11 @@ I'm Anas, a 2nd Year Master's Degree Student 👨‍🎓 of Information and Inte
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Entity Linking Using Dbpedia Spotlight - Entities Offsets Extraction](https://www.youtube.com/watch?v=aRmrITQGl3c)
 - [Entity Linking For A Long Text Using DBpedia Spotlight In Python](https://www.youtube.com/watch?v=vlbBAmX_dMA)
 - [Entity Linking With DBpedia Using Spotlight - Docker Image](https://www.youtube.com/watch?v=CihrjNlBWnc)
 - [Python Course #16 Essential Functions Of The Random Module - الدارجة المغربية](https://www.youtube.com/watch?v=inyzN4UTfas)
 - [Virtuoso OpenLink Docker Image: Bulk Loading RDF File Using ISQL &lpar;ld_dir&rpar;](https://www.youtube.com/watch?v=ST8k-NzlY6A)
-- [Python Course #15 File Paths Using OS Module - الدارجة المغربية](https://www.youtube.com/watch?v=wGnKDehFs_o)
 <!-- YOUTUBE:END -->
 
 <!--
