@@ -54,11 +54,11 @@ I'm Anas, a 2nd Year Master's Degree Student 👨‍🎓 of Information and Inte
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Comment Ecrire un Rapport de Stage dans Microsoft Word - الدارجة المغربية](https://www.youtube.com/watch?v=zvhmvHv1C9A)
 - [Python Course #20 Regular Expressions / Part 4 - الدارجة المغربية](https://www.youtube.com/watch?v=74qwGntFZZ0)
 - [Tutoriel complet de Microsoft Word - الدارجة المغربية](https://www.youtube.com/watch?v=eb1ILTeA5Es)
 - [Python Course #19 Regular Expressions / Part 3 - الدارجة المغربية](https://www.youtube.com/watch?v=WAWwV8YU7mI)
 - [Python Course #18 Regular Expressions Part 2 - الدارجة المغربية](https://www.youtube.com/watch?v=e_V7t5XCBGE)
-- [Python Course #17 Regular Expressions / Part 1 - الدارجة المغربية](https://www.youtube.com/watch?v=jx-Hd1QinLs)
 <!-- YOUTUBE:END -->
 
 <!--
