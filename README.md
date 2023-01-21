@@ -54,11 +54,11 @@ I'm Anas, a 2nd Year Master's Degree Student 👨‍🎓 of Information and Inte
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Entity Linking With Wikidata Using Entity Fishing In Python](https://www.youtube.com/watch?v=NDzkSqakTSw)
 - [Microsoft Word: Mendeley Tutorial - الدارجة المغربية](https://www.youtube.com/watch?v=_AXn5SV-Fsc)
 - [Comment Ecrire un Rapport de Stage dans Microsoft Word - الدارجة المغربية](https://www.youtube.com/watch?v=zvhmvHv1C9A)
 - [Python Course #20 Regular Expressions / Part 4 - الدارجة المغربية](https://www.youtube.com/watch?v=74qwGntFZZ0)
 - [Tutoriel complet de Microsoft Word - الدارجة المغربية](https://www.youtube.com/watch?v=eb1ILTeA5Es)
-- [Python Course #19 Regular Expressions / Part 3 - الدارجة المغربية](https://www.youtube.com/watch?v=WAWwV8YU7mI)
 <!-- YOUTUBE:END -->
 
 <!--
