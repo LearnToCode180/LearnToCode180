@@ -2,7 +2,7 @@
 
 I'm Anas, I hold a research master's degree in "Information Systems and Intelligent Systems" from the National Institute of Statistics and Applied Economics in Rabat, Morocco (INSEA) 👨‍🎓. I am currently working as a Semantic Data Modeling Engineer at INRAE in Avignon, France within the AnaEE France research infrastructure. My role involves semantic data modeling for ecological data to ensure interoperability.
 
-I'm passionate about Natural Language Processing, Computational Linguistics, LLM, Knowledge Graphs, and Ontologies.
+My field of interest are Natural Language Processing, Computational Linguistics, LLM, Knowledge Graphs, and Ontologies.
 
 - 👨🏽‍💻 I just finished an NLP project based on the extraction of information from the recommandations of the High Authority of Health (HAS) on a case of low back pain to build knowledge graphs to facilitate the management of diseases and the detection of the various factors related to chronicity.
 - ⚡ Fun fact: I'm a beatboxer, I love sport and reading everything about science.
