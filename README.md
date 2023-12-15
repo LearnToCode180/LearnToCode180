@@ -4,7 +4,7 @@ I'm Anas, I hold a research master's degree in "Information Systems and Intellig
 
 My field of interest are Natural Language Processing, Computational Linguistics, LLM, Knowledge Graphs, and Ontologies.
 
-- 👨🏽‍💻 I just finished an NLP project based on the extraction of information from the recommandations of the High Authority of Health (HAS) on a case of low back pain to build knowledge graphs to facilitate the management of diseases and the detection of the various factors related to chronicity.
+- 👨🏽‍💻 I worked recently on an NLP project based on the extraction of information from the recommendations of the High Authority of Health (HAS) on a case of low back pain to build knowledge graphs to facilitate the management of diseases and the detection of the various factors related to chronicity.
 - ⚡ Fun fact: I'm a beatboxer, I love sport and reading everything about science.
 
 ---
