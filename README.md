@@ -1,8 +1,8 @@
 ### Hello everybody 👋
 
-I'm Anas, I hold a research master's degree in "Information Systems and Intelligent Systems" from the National Institute of Statistics and Applied Economics in Rabat, Morocco (INSEA) 👨‍🎓. I am currently working as a Semantic Data Modeling Engineer at INRAE in Avignon, France within the AnaEE France research infrastructure. My role involves semantic data modeling for ecological data to ensure interoperability. This is done by managing the transformation of relational databases within diverse Information Systems into dynamic knowledge graphs. This process is founded on the utilization of the [OBOE ontology](https://bioportal.bioontology.org/ontologies/OBOE) from BioPortal.
+I'm Anas, I hold a research master's degree in "Information Systems and Intelligent Systems" from the National Institute of Statistics and Applied Economics in Rabat, Morocco (INSEA) 👨‍🎓. I am currently working as a Semantic Data Modeling Engineer at INRAE in Avignon, France within the AnaEE France research infrastructure. My role involves semantic data modeling for ecological data to ensure interoperability. This is done by managing the transformation of relational databases of diverse Information Systems into dynamic knowledge graphs. This process is founded on the utilization of the [OBOE ontology](https://bioportal.bioontology.org/ontologies/OBOE) from BioPortal.
 
-My field of interest are Natural Language Processing, Computational Linguistics, LLM, Knowledge Graphs, and Ontologies.
+My field of interest are Natural Language Processing, LLM, Knowledge Graphs, and Ontologies.
 
 - 👨🏽‍💻 I worked recently on an NLP project based on the extraction of information from the recommendations of the High Authority of Health (HAS) on a case of low back pain to build knowledge graphs to facilitate the management of diseases and the detection of the various factors related to chronicity.
 - ⚡ Fun fact: I'm a beatboxer, I love sport and reading everything about science.
