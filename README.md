@@ -56,11 +56,11 @@ My field of interest are Natural Language Processing, LLM, Knowledge Graphs, and
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Stage PFE - M2 ou Cycle d&#39;Ingénieur En France](https://www.youtube.com/watch?v=9HYkaU51ItY)
 - [Stage de Fin d&#39;Études en France - Master ou Cycle d&#39;Ingénieur](https://www.youtube.com/watch?v=hRtJLU1dz8E)
 - [What are URLs, URNs, URNs and IRIs? - In DARIJA](https://www.youtube.com/watch?v=EmAFywsG3NY)
 - [Windows 10/11 - How To Fix Blurry Screens In One Minute](https://www.youtube.com/watch?v=aAzpnh6K10s)
 - [Entity Linking With Wikidata Using Entity Fishing In Python](https://www.youtube.com/watch?v=NDzkSqakTSw)
-- [Microsoft Word: Mendeley Tutorial - الدارجة المغربية](https://www.youtube.com/watch?v=_AXn5SV-Fsc)
 <!-- YOUTUBE:END -->
 
 <!--
